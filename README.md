@@ -14,13 +14,13 @@ A simple implementation of the classic Tic-Tac-Toe game in HTML, CSS, and JavaSc
 
 ## Demo
 
-You can play the game online at [Tic-Tac-Toe Demo](https://rich-taveras.github.io/TIC-TAC-TOC/)
+You can play the game online at [Tic-Tac-Toe Demo](https://rich-taveras.github.io/TIC-TAC-TOE/)
 
 ## Getting Started
 
 1. Clone the repository:
 
-git@github.com:rich-taveras/TIC-TAC-TOC.git
+git@github.com:rich-taveras/TIC-TAC-TOE.git
 
 
 2. Open the `index.html` file in your web browser to start playing.
